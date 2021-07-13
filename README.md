@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 
-I'm Swapnil from india 🇮🇳, and i do content on design and development. I really enjoy learning languages and framework react and anguler,as well as work in android. I also like buliding different project (ex- chat app, auto message, populer web application clone). you can check me out here 👇
+I'm Swapnil from india, and i do content on design and development. I really enjoy learning languages and framework react and anguler,as well as work in android. I also like buliding different project (ex- chat app, auto message, populer web application clone). you can check me out here 👇
 
 <a href="https://www.linkedin.com/in/swapnil-dhamdhere-5781321b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/swapnil.s.dhamdhere/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
