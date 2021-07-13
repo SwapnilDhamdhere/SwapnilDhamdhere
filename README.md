@@ -1,8 +1,8 @@
 ![gif](https://github.com/SwapnilDhamdhere/SwapnilDhamdhere/blob/main/img/Swapnil%20Dhamdhere.gif?raw=true)
 
-### Hi there 👋 
+### Hi there 👋 I'm Swapnil
 
-I'm Swapnil from india, an full stack developer. I really enjoy learning new languages and framework like react and anguler, as well as work in flutter. I also like buliding different project (ex- chat app, auto message, populer web application clone). Looking for a unique opportunity that provides long term career development in a growing and lucrative marketplace. you can check me out here 👇
+I'm full stack developer from india. I really enjoy learning new languages and framework like react and anguler, as well as work in flutter. I also like buliding different project (ex- chat app, auto message, populer web application clone). Looking for a unique opportunity that provides long term career development in a growing and lucrative marketplace. you can check me out here 👇
 
 <a href="https://www.linkedin.com/in/swapnil-dhamdhere-5781321b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/swapnil.s.dhamdhere/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
