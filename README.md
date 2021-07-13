@@ -6,6 +6,14 @@ I'm full stack developer from india. I really enjoy learning new languages and f
 
 <a href="https://www.linkedin.com/in/swapnil-dhamdhere-5781321b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/swapnil.s.dhamdhere/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<div align="center">
+
+
+[![Swapnil's github stats](https://github-readme-stats.vercel.app/api?username=SwapnilDhamdhere&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/SwapnilDhamdhere/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilDhamdhere&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/SwapnilDhamdhere/github-readme-stats)
+
+</div>
 <!--
 **SwapnilDhamdhere/SwapnilDhamdhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
