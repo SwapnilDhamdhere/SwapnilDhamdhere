@@ -23,34 +23,34 @@ I'm full stack developer from india. I really enjoy learning new languages and f
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span>JAVA</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>PYTHON</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span> <b>Google Cloud Platform</b></span><br><br><br>
-        <img height="128px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png">
+        <span> <b>REACT.JS</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-         <span><b>Tensorflow 2.0</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+         <span><b>BOOTSTRAP</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Python 3</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span><b>.NET</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>ANDROID</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
