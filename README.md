@@ -1,5 +1,8 @@
-### Hi there 👋
+![gif](https://github.com/SwapnilDhamdhere/SwapnilDhamdhere/blob/main/img/Swapnil%20Dhamdhere.gif?raw=true)
 
+### Hi there 👋 
+
+I'm Swapnil from india, and i do content on design and development. I really enjoyed learning languages and framework react and anguler,as well as work in android.I also like buliding difrent project (ex- chatapp, auto message, populer web appliction clone). you can check me out here 👇
 <!--
 **SwapnilDhamdhere/SwapnilDhamdhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
